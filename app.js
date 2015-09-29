@@ -1,7 +1,6 @@
 vars = require('./vars');
 dash_button = require('node-dash-button');
 nest = require('unofficial-nest-api');
-util = require('util');
 
 var dash = dash_button(vars.AMAZON_DASH_BUTTON_MAC);
 
