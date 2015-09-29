@@ -1,6 +1,8 @@
 # Nest-Dash
 A simple NodeJS server for setting away to home via Amazon Dash Button
 
+*This is in early stages of development. It may be buggy...*
+
 ##Setup
 Requires 
 * [node-dash-button](https://github.com/hortinstein/node-dash-button)
