@@ -1,0 +1,23 @@
+{
+  "name": "nest-dash",
+  "version": "1.0.0",
+  "description": "A simple NodeJS Server to set the nest from Away to Home",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djrausch/Nest-Dash.git"
+  },
+  "author": "DJ Rausch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/djrausch/Nest-Dash/issues"
+  },
+  "homepage": "https://github.com/djrausch/Nest-Dash#readme",
+  "dependencies": {
+    "node-dash-button": "^0.1.1",
+    "unofficial-nest-api": "^0.1.4"
+  }
+}
