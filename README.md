@@ -4,7 +4,7 @@ A simple NodeJS server for setting away to home via Amazon Dash Button
 *This is in early stages of development. It may be buggy...*
 
 ##Example
-[Example Video] (https://goo.gl/photos/A6h8HTomQGhWWB3u8])
+[Example Video] (https://goo.gl/photos/A6h8HTomQGhWWB3u8)
 
 I have the server running on a Raspberry pi 2 using [pm2] (https://github.com/Unitech/pm2)
 
